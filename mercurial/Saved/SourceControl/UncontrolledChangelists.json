@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/vincentridpath/Documents/GitHub/Game Design 2/4week-project-game2/mercurial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/vincentridpath/Documents/GitHub/Game Design 2/4week-project-game2/mercurial/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"/Users/vincentridpath/Documents/GitHub/Game Design 2/4week-project-game2/mercurial/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"/Users/vincentridpath/Documents/GitHub/Game Design 2/4week-project-game2/mercurial/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"/Users/vincentridpath/Documents/GitHub/Game Design 2/4week-project-game2/mercurial/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
+			]
+		}
+	]
+}
